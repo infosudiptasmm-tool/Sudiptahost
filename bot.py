@@ -6,7 +6,7 @@ from telebot import TeleBot, types
 # ---------------------------
 # CONFIGURATION
 # ---------------------------
-BOT_TOKEN = "8276744757:AAHJj9EmHWVl4kwPhoSl3YP9QQsU_W2JRLY"  # Replace with your bot token
+BOT_TOKEN = "8276744757:AAErSBjss4Cm-vs5YsdD7CiuB6wd8DrJHcI"  # Replace with your bot token
 OWNER_USERNAME = "@JOINXT00L"
 UPDATES_CHANNEL = "https://t.me/joinxhost"
 FREE_LIMIT = 2  # Free users can upload 2 files
